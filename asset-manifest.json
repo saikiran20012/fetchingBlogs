@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fetchingBlogs/static/css/main.0a401bbf.chunk.css",
+    "main.js": "/fetchingBlogs/static/js/main.da760ad9.chunk.js",
+    "main.js.map": "/fetchingBlogs/static/js/main.da760ad9.chunk.js.map",
+    "runtime-main.js": "/fetchingBlogs/static/js/runtime-main.d3e4046d.js",
+    "runtime-main.js.map": "/fetchingBlogs/static/js/runtime-main.d3e4046d.js.map",
+    "static/css/2.7a8f3fa9.chunk.css": "/fetchingBlogs/static/css/2.7a8f3fa9.chunk.css",
+    "static/js/2.6bb48f49.chunk.js": "/fetchingBlogs/static/js/2.6bb48f49.chunk.js",
+    "static/js/2.6bb48f49.chunk.js.map": "/fetchingBlogs/static/js/2.6bb48f49.chunk.js.map",
+    "index.html": "/fetchingBlogs/index.html",
+    "static/css/2.7a8f3fa9.chunk.css.map": "/fetchingBlogs/static/css/2.7a8f3fa9.chunk.css.map",
+    "static/css/main.0a401bbf.chunk.css.map": "/fetchingBlogs/static/css/main.0a401bbf.chunk.css.map",
+    "static/js/2.6bb48f49.chunk.js.LICENSE.txt": "/fetchingBlogs/static/js/2.6bb48f49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3e4046d.js",
+    "static/css/2.7a8f3fa9.chunk.css",
+    "static/js/2.6bb48f49.chunk.js",
+    "static/css/main.0a401bbf.chunk.css",
+    "static/js/main.da760ad9.chunk.js"
+  ]
+}
